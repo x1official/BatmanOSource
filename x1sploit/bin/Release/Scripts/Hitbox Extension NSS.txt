@@ -1,0 +1,35 @@
+local library = loadstring(game:HttpGet("https://pastebin.com/raw/7Z6TzFnv", true))()
+local example = library:CreateWindow({
+  text = "n0sc0pe Destr0Yer"
+})
+
+local credits = library:CreateWindow({text='Credits'})
+credits:AddLabel("Credits\nSkiddieWilly#9999: Scripter\nwally: UI\n")
+
+example:AddBox("Hitbox Size", function(object, focus)
+if focus then
+_G.Hitbox = true
+local enemies = game.Players:GetPlayers()
+function hitbox()
+_G.HRPSize = tonumber(object.Text)
+if _G.Hitbox == true then
+game:GetService('RunService').RenderStepped:connect(function()
+for i=1, #enemies do
+if enemies[i].Name ~= game:GetService("Players").LocalPlayer.Name then
+pcall(function()
+enemies[i].Character.HumanoidRootPart.Size = Vector3.new(_G.HRPSize,_G.HRPSize,_G.HRPSize)
+enemies[i].Character.HumanoidRootPart.Transparency = 0.5
+enemies[i].Character.HumanoidRootPart.CanCollide = false
+end)
+end
+end
+end)
+end
+end
+hitbox()
+
+game:GetService("Players").PlayerAdded:Connect(function(player)
+hitbox()
+end)  
+end
+end)

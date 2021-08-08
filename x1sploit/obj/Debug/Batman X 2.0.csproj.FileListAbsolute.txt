@@ -1,0 +1,180 @@
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\x1sploit.MainUI.resources
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X 2.0.csproj.GenerateResource.cache
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X 2.0.csproj.CoreCompileInputs.cache
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X 2.0.csproj.CopyComplete
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Batman X.exe.config
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Batman X.exe.manifest
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Batman X.application
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Batman X.exe
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Batman X.pdb
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\batman.Properties.Resources.resources
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X.TrustInfo.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X.exe.manifest
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X.application
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X.exe
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X.pdb
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Guna.UI2.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\KrnlAPI.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\EasyExploits.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Buffers.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Memory.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Text.Json.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.ValueTuple.dll
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Buffers.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Memory.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Text.Json.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\bin\Debug\System.ValueTuple.xml
+C:\Users\gamin\source\repos\Batman X 2.0\x1sploit\obj\Debug\Batman X 2.0.csprojAssemblyReference.cache
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Guna.UI2.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.JSInterop.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Buffers.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Memory.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Text.Json.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.ValueTuple.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.JSInterop.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Buffers.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Memory.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Text.Json.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\System.ValueTuple.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\x1sploit.MainUI.resources
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\batman.Properties.Resources.resources
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman X 2.0.csproj.GenerateResource.cache
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman X 2.0.csproj.CoreCompileInputs.cache
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman X 2.0.csproj.CopyComplete
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Batman O.exe.config
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Batman O.exe.manifest
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Batman O.application
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Batman O.exe
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Batman O.pdb
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman O.TrustInfo.xml
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman O.exe.manifest
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman O.application
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman O.exe
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman O.pdb
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\bin\Debug\EasyExploits.dll
+C:\Users\gamin\source\repos\Batman O\x1sploit\obj\Debug\Batman X 2.0.csprojAssemblyReference.cache
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Batman O.exe.config
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Batman O.exe.manifest
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Batman O.application
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Batman O.exe
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Batman O.pdb
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\EasyExploits.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Guna.UI2.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Forms.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Web.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Metadata.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Options.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.JSInterop.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Buffers.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.ComponentModel.Annotations.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Memory.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Numerics.Vectors.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Text.Encodings.Web.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Text.Json.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.ValueTuple.dll
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Forms.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Components.Web.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.AspNetCore.Metadata.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Options.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\Microsoft.JSInterop.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Buffers.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Memory.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Numerics.Vectors.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Text.Encodings.Web.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Text.Json.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\!Download\source\repos\Batman O\x1sploit\bin\Debug\System.ValueTuple.xml
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\x1sploit.MainUI.resources
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\batman.Properties.Resources.resources
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman X 2.0.csproj.GenerateResource.cache
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman X 2.0.csproj.CoreCompileInputs.cache
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman O.TrustInfo.xml
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman O.exe.manifest
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman O.application
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman X 2.0.csproj.CopyComplete
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman O.exe
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman O.pdb
+D:\!Download\source\repos\Batman O\x1sploit\obj\Debug\Batman X 2.0.csprojAssemblyReference.cache

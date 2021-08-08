@@ -1,0 +1,26 @@
+local buyCrateRemote = game.ReplicatedStorage.remoteInterface.remoteFunctions.buyCrate
+local openCrateRemote = game.ReplicatedStorage.remoteInterface.remoteFunctions.openCrate
+local hitRemote = game.ReplicatedStorage.remoteInterface.remoteEvents.hitShip
+local sellOreRemote = game.ReplicatedStorage.remoteInterface.remoteEvents.sellOre
+local addOreRemote = game.ReplicatedStorage.remoteInterface.remoteEvents.addOre
+
+_G.AutoSell = false; AUTO_SELL_WAIT_TIME = 1
+_G.AutoMoney = true; AUTO_MONEY_WAIT_TIME = 1/30
+
+--Auto Money
+while _G.AutoMoney == true do
+   wait(AUTO_MONEY_WAIT_TIME)
+   addOreRemote:FireServer("Rezelite", 9999)
+   sellOreRemote:FireServer("Rezelite")
+end
+
+--Auto Sell
+local Ores = {"Stone", "Copper", "Silver", "Gold"}
+SELL_WAIT_TIME = 1
+
+while _G.AutoSell == true do
+   wait(SELL_WAIT_TIME)
+   for _,Ore in ipairs(Ores) do
+       sellOreRemote:FireServer(Ore)
+   end
+end

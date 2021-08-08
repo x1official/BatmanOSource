@@ -1,0 +1,93 @@
+-- hold Right Mouse Button to start aimbotting
+-- you can change 3 settings:-
+-- [+]Aimbot Enabled
+-- [+]Visible Check
+-- [+]Max Distance
+
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/preztel/AzureLibrary/master/uilib.lua", true))()--Gets the ui library
+local Player = game.Players.LocalPlayer--Gets the Player
+local RS = game:GetService("RunService")--Gets the RunService (needed for the .RenderStepped:Connect thing)
+local Mouse = Player:GetMouse()--Gets the mouse
+local MouseDown = false--MouseButtonDown Variable
+Mouse.Button2Down:Connect(function()--Connects a function when the mousebutton2 is down
+   MouseDown = true--Sets MouseButtonDown variable to true
+end)
+Mouse.Button2Up:Connect(function()--Connects a function when the mousebutton2 is up
+   MouseDown = false--Sets MouseButtonDown variable to false
+end)
+--AimbotSettings
+local Camera = workspace.CurrentCamera--Gets the CurrentCamera
+local AimBotEnabled = false--Aimbot Enabled Checks
+local VisibleCheck = false--Check If the player being aimbotted is visible to the clients camera
+local MaxDistance = 1000--Max Distance of the aimbot(won't work if u go further than the max distance)
+local IgnoreList = {};--Ignore List for fully transparent and cancollide enabled parts
+local AimbotTab = Library:CreateTab("Universal Aimbot","Universal Aimbot For All Games!",true)--Creates a tab named Universal Aimbot
+AimbotTab:CreateToggle("Aimbot Enabled",function(arg)--Makes a toggle for enabling/disabling the aimbot
+   AimBotEnabled = arg--Sets AimbotEnabled variable to argument of function
+end)
+AimbotTab:CreateToggle("Visiblity Check",function(arg)--Makes a toggle for visibility check
+   VisibleCheck = arg--Sets AimbotEnabled variable to argument of function
+end)
+AimbotTab:CreateSlider("Max Distance", 750, 5000,function(arg)--Makes a slider for max distance
+   MaxDistance = tonumber(arg)--Converts the argument of function to a number and sets MaxDistance variable to argument of function
+end)
+function CheckRay(Player, Distance, Position, Unit)--CheckRay function for checking if an object is visible
+local VisibleTCheck = true;--Visible Check Variable
+
+   if Distance >= MaxDistance then--Checks if the object is further than the max distance
+       return false;--returns false
+   end--ends the 'if' statment
+
+local _Ray = Ray.new(Position, Unit * Distance);--Creates a ray
+
+local List = {Player.Character, Camera, Mouse.TargetFilter};--Created a Table
+
+   for i,v in pairs(IgnoreList) do--loops through the ignore list
+       table.insert(List, v);--inserts stuff into the table
+   end;--ends the 'for' loop
+
+local Hit = workspace:FindPartOnRayWithIgnoreList(_Ray, List);--Finds The Parts On Rays With Ignore List Items
+
+if Hit and not Hit:IsDescendantOf(Player.Character) then --Checks if Hit Isn't Nil and His Is a Descendant of Clients Character
+VisibleTCheck = false;--Sets Visible Check Variable to false
+if Hit.Transparency >= 0.3 or not Hit.CanCollide and Hit.ClassName ~= Terrain then -- Detect invisible walls
+table.insert(IgnoreList,Hit);--Adds an item in IgnoreList
+end--ends the 'if' statment
+end--ends the 'if' statment
+
+return VisibleTCheck;--returns the Visible Check for part
+end
+RS.RenderStepped:Connect(function()--RenderStepped function(we are using this instead of loop to prevent lag)
+   if AimBotEnabled then--Checks if AimBotEnabled variable is set to true
+       local closestDistance = math.huge--Sets Closest Distance to an integer
+       local closestPlayer = nil--Sets Closest Player to an nil
+       for i,PlayerSS in pairs(game.Players:GetPlayers()) do--Creates a for loop which gets all the players
+           if PlayerSS.Character == nil then return elseif Player.Character == nil then return end--Checks if the selected player or the clients character is nil if it is nil then it skips the selected player
+           local distance = (Player.Character.HumanoidRootPart.Position-PlayerSS.Character.HumanoidRootPart.Position).magnitude--Gets the distance between selected player and client
+           local Head = PlayerSS.Character.Head--Gets the head of the selected Player
+           if distance < closestDistance and distance <= MaxDistance and Player.Name ~= PlayerSS.Name and MouseDown and (Player.Team~=nil) and Player.Team.Name ~= PlayerSS.Team.Name then --Checks alot of stuff i am too lazy to write
+               closestDistance = distance--Sets the closest distance to distance
+               closestPlayer = PlayerSS--Sets Closest Player to PlayerSS
+               print(PlayerSS.Name .. " is the closest player to us")--Prints who is the Closest Player
+               local AimPosition = PlayerSS.Character.HumanoidRootPart.Position--Gets HumanoidRootPart Position of the selected player
+               local ScreenPosition = Vector3.new(0, 0, 0)--Sets ScreenPosition to a Vector3
+               ScreenPosition, V = Camera:WorldToViewportPoint(AimPosition)--Sets ScreenPosition to a vector3
+               if Head and Head.Position.X ~= 0 and ScreenPosition.Z > 0 then --Checks if the selected player is behind the player and if the head of the select player is nil
+                   local Distance = (Camera.CFrame.p - Head.Position).magnitude;--Sets Distance to Distance between camera and if head of the selected player is not nil
+                   local Direction = Camera.CFrame.lookVector.unit;--Sets Direction to a lookvectors unit
+                   local Relative = Player.Character.Head.Position - Camera.CFrame.p;--Sets Relate to The clients head position - Camera Position
+                   local Unit = Relative.unit;--Sets Unit to Unit of Relative variable
+       
+                   local Visible = CheckRay(Player, Distance, Camera.CFrame.p, Unit);--Checks if the Selected Player is Visible
+                   if VisibleCheck then--Checks if VisibleCheck is set to true
+                       if Visible then--Checks if The Selected Player is Visible
+                           Camera.CFrame = CFrame.new(Camera.CFrame.Position, closestPlayer.Character.Head.Position)--Changes Cameras Position to the head of the closest player
+                       end--ends the 'if' statement
+                   else--Checks if VisibleCheck is not set to true
+                       Camera.CFrame = CFrame.new(Camera.CFrame.Position, closestPlayer.Character.Head.Position)--Changes Cameras Position to the head of the closest player
+                   end--ends the 'if' statment
+               end--ends the 'if' statment
+           end--ends the 'if' statment
+       end--ends the 'for' loop
+   end--ends the 'if' statment    
+end)--ends the 'function'

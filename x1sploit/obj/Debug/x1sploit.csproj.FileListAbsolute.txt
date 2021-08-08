@@ -1,0 +1,16 @@
+C:\Users\gamin\source\repos\x1sploit\x1sploit\bin\Debug\x1sploit.exe.config
+C:\Users\gamin\source\repos\x1sploit\x1sploit\bin\Debug\x1sploit.exe
+C:\Users\gamin\source\repos\x1sploit\x1sploit\bin\Debug\x1sploit.pdb
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.x1sploit.resources
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.Properties.Resources.resources
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.csproj.GenerateResource.cache
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.csproj.CoreCompileInputs.cache
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.csproj.CopyComplete
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.exe
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.pdb
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.ScriptHub.resources
+C:\Users\gamin\source\repos\x1sploit\x1sploit\bin\Debug\x1sploit.exe.manifest
+C:\Users\gamin\source\repos\x1sploit\x1sploit\bin\Debug\x1sploit.application
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.TrustInfo.xml
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.exe.manifest
+C:\Users\gamin\source\repos\x1sploit\x1sploit\obj\Debug\x1sploit.application
